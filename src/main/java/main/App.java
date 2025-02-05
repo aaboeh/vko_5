@@ -16,7 +16,7 @@ public class App
 
             System.out.println("1) Lisää kone");
             System.out.println("2) Listaa kaikki koneet");
-            System.out.println("3) Lopeta ohjelma");
+            System.out.println("0) Lopeta ohjelma");
 
             if (sc.hasNext()) {
                 int i = 0;
